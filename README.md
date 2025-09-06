@@ -1,6 +1,6 @@
 - 👋 Hi, I’m xxxNdr
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently learning php, python, javascript, mySQL...
+- 🌱 I’m currently learning php, python, javascript, mySQL, Git...
 - 💞️ I’m looking to collaborate on... (available soon)
 - 📫 How to reach me? Follow me
 - 😄 Pronouns: <, >, ==, !=, ? :
